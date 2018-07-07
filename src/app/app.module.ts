@@ -5,7 +5,6 @@ import { AppRoutingModule } from './app.routes';
 import { AppComponent } from './app.component';
 import { InicioComponent } from './inicio/inicio.component';
 import { SaludoComponent } from './saludo/saludo.component';
-import { AppRoutingModule } from './app.routes';
 import { IdeasComponent } from './ideas/ideas.component';
 import { PerfilComponent } from './perfil/perfil.component';
 import { NoticiasComponent } from './noticias/noticias.component';
